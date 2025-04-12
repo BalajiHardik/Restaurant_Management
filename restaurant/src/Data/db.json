@@ -1,0 +1,24 @@
+{
+  "restaurant": [
+    {
+      "id": "6b20",
+      "ReservationId": "2",
+      "CustomerName": "Hardik",
+      "TableNumber": "102",
+      "ReservationTime": "14:32",
+      "SpecialRequests": "Nil",
+      "zone": "PM",
+      "status": "Booked"
+    },
+    {
+      "id": "b71a",
+      "ReservationId": "3",
+      "CustomerName": "Pandya",
+      "TableNumber": "103",
+      "ReservationTime": "15:38",
+      "SpecialRequests": "Nil",
+      "zone": "PM",
+      "status": "Cancelled"
+    }
+  ]
+}

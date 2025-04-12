@@ -1,0 +1,90 @@
+form{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 20px auto;
+    width: 50%;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #f5f5f5;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+form label{
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+form input{
+    padding: 5px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    width: 100%;
+}
+form button{
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+}
+table,th,td,tr{
+    border:1px solid black;
+    border-collapse: collapse;
+    padding: 10px;
+    text-align: center;
+    margin-left:350px;
+    margin-top: 100px;
+}
+body{
+    background-color: #f5f5f5;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+#delete{
+    background-color: red;
+}
+#edit{
+    background-color: green;
+}
+#edit:hover{
+    background-color: #4CAF50;
+}
+#delete:hover{
+    background-color: rgb(195, 71, 71);
+}
+button{
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+    
+}
+h2{
+    text-align: center;
+    margin-top: 100px;
+
+
+}
+#search{
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+
+}
+select{
+    padding: 10px 20px;
+    background-color: #ffffff;
+    color: rgb(8, 8, 8);
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+    margin-right: 630px;
+}
